@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InstructionScreen
+comment0.text=\n\ The\ following\ class\ programs\ the\ Aladdin's\ game\ instruction\ display\n\n\ @authors\:\ Fatima\ Asif\n\ \ \ \ \ \ \ \ \ \ \ Hanna\ Susan\ Jossy\n\ \ \ \ \ \ \ \ \ \ \ Sanjida\ Shakhayet\n\ \ \ \ \ \ \ \ \ \ \n\ @Version\:\ AladdinGame\ ~\ instruction\ screen\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ following\ method\ is\ a\ start\ method\n\ \n\ Input\:\ Stage\ primaryStage\n\ Output\:\ None\n
+comment2.params=
+comment2.target=void\ goBack()
+comment2.text=\n\ The\ following\ method\ returns\ to\ the\ main\ screen\n\n\ input\:\ none\n\ output\:\ None\n
+numComments=3
